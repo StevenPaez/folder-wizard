@@ -1,0 +1,14 @@
+/Users/usuario1/Documents/projects/folder-wizard/bin/Debug/net10.0/folder-wizard
+/Users/usuario1/Documents/projects/folder-wizard/bin/Debug/net10.0/folder-wizard.deps.json
+/Users/usuario1/Documents/projects/folder-wizard/bin/Debug/net10.0/folder-wizard.runtimeconfig.json
+/Users/usuario1/Documents/projects/folder-wizard/bin/Debug/net10.0/folder-wizard.dll
+/Users/usuario1/Documents/projects/folder-wizard/bin/Debug/net10.0/folder-wizard.pdb
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.AssemblyInfoInputs.cache
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.AssemblyInfo.cs
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.csproj.CoreCompileInputs.cache
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.dll
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/refint/folder-wizard.dll
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.pdb
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/folder-wizard.genruntimeconfig.cache
+/Users/usuario1/Documents/projects/folder-wizard/obj/Debug/net10.0/ref/folder-wizard.dll
