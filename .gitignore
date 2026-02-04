@@ -1,0 +1,11 @@
+﻿# Build outputs
+bin/
+obj/
+
+# JetBrains Rider
+.idea/
+
+# User / temp files
+*.user
+*.lock.json
+*.log
