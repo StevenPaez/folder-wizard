@@ -1,6 +1,11 @@
 ﻿using System.IO;
 
-var path = "/Users/usuario1/Downloads/";
+var SO = System.Environment.OSVersion.Platform.ToString();
+
+var path = SO == "Unix"
+    ? "/Users/usuario1/Downloads/"
+    : "C:\\Users\\steve\\Downloads";
+
 var files = Directory.GetFiles(path);
 
 string GetCategory(string file)
@@ -17,7 +22,7 @@ string GetCategory(string file)
         _ => "Others"
     };
 }
-    
+
 foreach (var file in files)
 {
     var category = GetCategory(file);
