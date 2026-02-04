@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("folder-wizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed2f06097d58c09bca01eafd273e16c7dab43200")]
 [assembly: System.Reflection.AssemblyProductAttribute("folder-wizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("folder-wizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
